@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="Enter_number">Введите номер телефона</string>
+    <string name="Enter_phone_number">Введите номер телефона</string>
+    <string name="On_this_you_write">здесь вы пишете номер телефона и нажимаете на кнопку сохранить,и вас перекидывает в телефон с вашим введенным номером</string>
+    <string name="Call">Позвонить</string>
+    <string name="Photo_and_video">Фото и видео</string>
+    <string name="Photo">Фото</string>
+    <string name="Tap_on_Button">при нажатии на кнопку</string>
+    <string name="open_camera">откроется камера для фото</string>
+    <string name="video">Видео</string>
+    <string name="enter">при нажатии на кнопку</string>
+    <string name="open_camera_for_photo">откроется камера для фото</string>
+    <string name="Enter_City">Введите город</string>
+    <string name="Enter_city_2">Введите город</string>
+    <string name="dfv">Здесь вы пишете город и сохраняете, и город возвращается и вставляется в предыдущее активити</string>
+    <string name="save">Сохранить</string>
+    <string name="VVedite_zapros">Введите запрос в гугл</string>
+    <string name="Vvedite_vash_text">Введите ваш текст</string>
+    <string name="dfjndfvn">здесь вы пишете номер телефона и нажимаете на кнопку сохранить,и вас перекидывает в телефон с вашим введенным номером</string>
+    <string name="sdcdf">Поиск</string>
+    <string name="Bishkek">БИШКЕК</string>
+    <string name="KKKKKKyrgyzstan">KYRGYZSTAN</string>
+    <string name="_10_00_ammmmmmm">10:00 AM</string>
+    <string name="_10_10_20211212">10/10/2021</string>
+    <string name="_2_cccccccc">-2\'C</string>
+    <string name="CCSCscsdcsc">Облачно</string>
+    <string name="dkjvndfvndfjvn">Вывести Toast</string>
+</resources>
